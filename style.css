@@ -1,0 +1,33 @@
+header{
+    font-family: Helvetica, arial, sans-serif;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+    background-image:url("image1.jpeg");
+}
+
+h1{
+    font-family: Helvetica, arial, sans-serif;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+
+#Brushes{
+    background-color: mediumspringgreen;
+}
+
+#Frames{
+    background-color: lightcoral;
+}
+
+#Brushes{
+    background-color: skyblue;
+}
+
+strong{
+    font-family: Helvetica, arial, sans-serif;
+    font-weight: bold;
+    color: blue;
+}
